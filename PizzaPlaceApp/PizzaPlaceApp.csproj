@@ -10,4 +10,14 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Imagenes\Hot.PNG" />
+    <None Include="wwwroot\Imagenes\None.PNG" />
+    <None Include="wwwroot\Imagenes\Picante.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>
